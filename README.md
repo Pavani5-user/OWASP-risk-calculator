@@ -5,8 +5,8 @@ This project is built using HTML, CSS, and JavaScript, and helps identify critic
 
 <!DOCTYPE>
 <html>
-	<head>
-		<title>OWASP RISK CALCULATOR</title>
+<head>
+	<title>OWASP RISK CALCULATOR</title>
     <meta charset="utf-8" />
     <meta http-equiv="content-type" content="text/html" />
     <meta name="viewport" content="width=device-width, initial-scale=1">
